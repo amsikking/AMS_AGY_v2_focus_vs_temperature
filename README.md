@@ -1,4 +1,7 @@
 # AMS_AGY_v2_focus_vs_temperature
+
+<a href="https://doi.org/10.5281/zenodo.14343608"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.14343608.svg" alt="DOI"></a>
+
 Data showing how the focal plane of an AMS-AGY v2 objective moves axially with temperature.
 
 ## Result:
